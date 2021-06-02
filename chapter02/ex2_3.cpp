@@ -26,7 +26,7 @@ int main()
     std::cout << std:: endl;
     std::cout << "El impuesto local es: " << county_tax << "%";
     std::cout << std:: endl;
-    std::cout << "La cantidad en impuestos es: $"<< amount_tax << std::endl;
+    std::cout << "La cantidad en impuestos es: $" << amount_tax << std::endl;
     std::cout << "El precio final de la adquisición es: $" << purchase_price;
     std::cout << std::endl;
 
